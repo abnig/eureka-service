@@ -1,0 +1,6 @@
+eureka:
+  instance:
+    hostname: eureka-service.local.pcfdev.io
+  client:
+    fetch-registry: false
+    register-with-eureka: false
